@@ -1,18 +1,7 @@
-## Getting Started
+Programas contenidos en el proyecto:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+claseMath.java - Raíz, potencia, redondeo y número random de un número declarado.
+mod.java - Calculo a través del operador 'mod' para calcular cuantos días y semanas hay en 1000 horas.
+operadores.java - Uso de los operadores básicos.
+operadoresAsignacion.java - Uso de operadores de asignación.
+operadoresIncrDecr.java - Uso de operadores de incremento y decremento.
